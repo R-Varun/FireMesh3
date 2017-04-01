@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FireMesh</string>
+    <string name="title_activity_wi_fi_direct">WiFiDirectActivity</string>
 </resources>
